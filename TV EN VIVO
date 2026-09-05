@@ -1,0 +1,181 @@
+#EXTM3U
+#EXTINF:-1, AUNO PUNO
+https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/chunks.m3u8?uid=8343375
+#EXTINF:-1, QOLLASUYO Juliaca
+https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/chunks.m3u8?uid=8343375
+#EXTINF:-1, RTP Puno
+https://live-evg7.tv360.bitel.com.pe/bitel/rtp/chunks.m3u8
+#EXTINF:-1, Xtremo TV
+https://es3-p2-netcdn.bitel.com.pe/netcdn-live-4/bitel/extremotv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=10015361&timestamp=1788301146&token=7245d706b127760bcf163e8069c6e5d9
+#EXTINF:-1, Antena Sur
+https://live-evg8.tv360.bitel.com.pe/bitel/antenasurtv/chunks.m3u8?uid=8343375
+#EXTINF:-1, Cositel Juliaca
+https://live-evg10.tv360.bitel.com.pe/bitel/cositeljuliaca/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
+#EXTINF:-1,PE | Canal N
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/17.ts
+#EXTINF:-1, RPP
+https://live-evg8.tv360.bitel.com.pe/bitel/rpp/chunks.m3u8?uid=12955367
+#EXTINF:-1,24/7 | LA FAMILIA PELUCHE
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/127678.ts
+#EXTINF:-1,MX | DISTRITO COMEDIA
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/40217.ts
+#EXTINF:-1,ENT | LAS ESTRELLAS
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/82347.ts
+#EXTINF:-1,FX HD
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/898.ts
+#EXTINF:-1,FX P
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/182868.ts
+#EXTINF:-1,HBO • OP01
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/905.ts
+#EXTINF:-1,HBO 2 • OP01 ☆
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/906.ts
+#EXTINF:-1,HBO FAMILY • OP01
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/913.ts
+#EXTINF:-1,Space • OP01
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/947.ts
+#EXTINF:-1,24/7 CINE 2023
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/40218.ts
+#EXTINF:-1,24/7 Estrenos Cine 2023
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/40219.ts
+#EXTINF:-1,24/7 LA PROFECÍA • LTV
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/182484.ts
+#EXTINF:-1, Andina RTV
+https://live-evg8.tv360.bitel.com.pe/bitel/andinatvSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
+#EXTINF:-1,BITME
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/1049.ts
+#EXTINF:-1,NICKELODEON
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/1070.ts
+#EXTINF:-1, Nuestro Canal
+https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
+#EXTINF:-1, Zeleve Tv
+https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
+#EXTINF:-1, Qosqo Times
+https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/chunks.m3u8?uid=8343375
+#EXTINF:-1, Urbana TV
+https://live-evg10.tv360.bitel.com.pe/bitel/urbanatv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
+#EXTINF:-1, Mega TV
+https://live-evg5.tv360.bitel.com.pe/bitel/megatv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
+#EXTINF:-1, Max TV
+https://live-evg11.tv360.bitel.com.pe/bitel/maxtv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
+#EXTINF:-1, Wayra TV
+https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/chunks.m3u8
+#EXTINF:-1, Alpha TV
+https://es1-p2-netcdn.bitel.com.pe/netcdn-live-7/bitel/bnbSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=10015361&timestamp=1786048530&token=38c8fcc3b2312b5be6f63969eb19830b
+#EXTINF:-1,PE | MOVISTAR PLUS SD
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/127.ts
+#EXTINF:-1, GTv Pisco
+https://es1-p1-netcdn.bitel.com.pe/netcdn-live-4/bitel/gtvpiscoSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=10015361&timestamp=1785361206&token=4f1aaffc67f5b032edfd15a2a35fe95d
+#EXTINF:-1, BH TV
+https://live-evg10.tv360.bitel.com.pe/bitel/bhtv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
+#EXTINF:-1, Tiempo Real TV
+https://live-evg11.tv360.bitel.com.pe/bitel/tiemporealtv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
+#EXTINF:-1, Onda TV
+https://live-evg5.tv360.bitel.com.pe/bitel/onda/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
+#EXTINF:-1, DAC TV
+https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
+#EXTINF:-1, Imperial TV
+https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/chunks.m3u8?uid=8343375
+#EXTINF:-1, Unitel TV
+https://live-evg11.tv360.bitel.com.pe/bitel/uniteltvSRT/chunks.m3u8
+#EXTINF:-1, Bonita TV
+https://live-evg8.tv360.bitel.com.pe/bitel/bonitatv/chunks.m3u8?uid=8343375
+#EXTINF:-1, Fillka TV
+https://live-evg5.tv360.bitel.com.pe/bitel/fillka/chunks.m3u8?uid=8343375
+#EXTINF:-1, Creo Latino
+https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
+#EXTINF:-1, Andes TV
+https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
+#EXTINF:-1, Telelima
+https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
+#EXTINF:-1, Rumba TV
+https://live-evg7.tv360.bitel.com.pe/bitel/rumba/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
+#EXTINF:-1, Teleselva
+https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/chunks.m3u8
+#EXTINF:-1, TVO+
+https://live-evg11.tv360.bitel.com.pe/bitel/tvo/chunks.m3u8
+#EXTINF:-1, Mac TV
+https://live-evg8.tv360.bitel.com.pe/bitel/mactv/chunks.m3u8?uid=8343375
+#EXTINF:-1, Master TV
+https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/chunks.m3u8?uid=8343375
+#EXTINF:-1, Tarapoto TV
+https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/chunks.m3u8
+#EXTINF:-1, Tarapoto Television
+https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
+#EXTINF:-1, TV Mar
+https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/chunks.m3u8
+#EXTINF:-1, Nativa
+https://live-evg5.tv360.bitel.com.pe/bitel/nativa/chunks.m3u8?uid=8343375
+#EXTINF:-1, Casma Tv
+https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/chunks.m3u8
+#EXTINF:-1, Cajamarca TV
+https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
+#EXTINF:-1, TV+ Chincha
+https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
+#EXTINF:-1,FUEGO TV
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/168420.ts
+#EXTINF:-1, FMH movies
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/167843.ts
+#EXTINF:-1,FMH KIDS
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/167842.ts
+#EXTINF:-1, Creo Kids
+https://es2-p1-netcdn.bitel.com.pe/netcdn-live-4/bitel/CreoKidsSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=10015361&timestamp=1785273363&token=9f9127deefec448a8d792be19117a3af
+#EXTINF:-1, Anima Kids
+https://live-evg8.tv360.bitel.com.pe/bitel/animakids/chunks.m3u8?uid=8343375
+#EXTINF:-1, Studio TV
+https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/chunks.m3u8?manifestfilter=video_bitrate:1-4400000&uid=11078460
+#EXTINF:-1, Cadena TV
+https://live-evg10.tv360.bitel.com.pe/bitel/cadenatv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
+#EXTINF:-1, Nativa TV Chanchamayo
+https://live-evg7.tv360.bitel.com.pe/bitel/nativachanchamayoSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
+#EXTINF:-1, FILLKA TV
+https://live-evg5.tv360.bitel.com.pe/bitel/fillka/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
+#EXTINF:-1, ONCE TV
+https://live-evg10.tv360.bitel.com.pe/bitel/canal11/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
+#EXTINF:-1, Huaral en Linea
+https://live-evg8.tv360.bitel.com.pe/bitel/huaralenlineaSRT-TRA/chunks.m3u8?uid=8343375
+#EXTINF:-1, Aldia TV
+https://live-evg11.tv360.bitel.com.pe/bitel/aldiatvSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
+#EXTINF:-1, Doble C
+https://live-evg18.tv360.bitel.com.pe/bitel/doblecSRT/chunks.m3u8
+#EXTINF:-1, Riku TV
+https://live-evg7.tv360.bitel.com.pe/bitel/riku/chunks.m3u8
+#EXTINF:-1, Atlantis Tv Ayacucho
+https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/chunks.m3u8?uid=5272811
+#EXTINF:-1, Aura TV
+https://live-evg8.tv360.bitel.com.pe/bitel/auratvSRT/chunks.m3u8?uid=8343375
+#EXTINF:-1, Sabor Mix
+https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
+#EXTINF:-1, Vision Sur
+https://live-evg8.tv360.bitel.com.pe/bitel/visionsur-UDP_abr/bitel/visionsur-UDP_480p/chunks.m3u8?uid=13457839
+#EXTINF:-1, Unicentro Tv
+https://live-evg11.tv360.bitel.com.pe/bitel/unicentro/chunks.m3u8
+#EXTINF:-1, Huanta TV
+https://es3-p1-netcdn.bitel.com.pe/netcdn-live-4/bitel/huantatv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=10015361&timestamp=1785274077&token=54afbced68edf68f3cc2d3cd757c58be
+#EXTINF:-1, NZK TV
+https://live-evg10.tv360.bitel.com.pe/bitel/nasca/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
+#EXTINF:-1, NKZ TV
+https://live-evg10.tv360.bitel.com.pe/bitel/nasca/chunks.m3u8?uid=8343375
+#EXTINF:-1, Canal 34
+https://live-evg10.tv360.bitel.com.pe/bitel/canal34SRT/chunks.m3u8?uid=8343375
+#EXTINF:-1 tvg-id="EliasPinaTV.do@SD" tvg-logo="https://i.imgur.com/VqxSsZD.png" group-title="General",Elias Pina TV (720p) [Not 24/7]
+https://cloud2.streaminglivehd.com:1936/8078/8078/playlist.m3u8
+#EXTINF:-1, TV LIBERTAD
+https://live-evg8.tv360.bitel.com.pe/bitel/tvlibertadSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
+#EXTINF:-1, CREO TV+
+https://es2-p2-netcdn.bitel.com.pe/netcdn-live-4/bitel/CreomasSRT/chunks.m3u8?maxrate=10000000&minrate=0&wmkid=0&uid=10015361&timestamp=1781555814&token=11d8ce263f35810224ec67b697ad8e30
+#EXTINF:-1, Yoli TV
+https://live-evg5.tv360.bitel.com.pe/bitel/yolitvSRT/chunks.m3u8?uid=8343375
+#EXTINF:-1, RTV INFANTIL
+https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
+#EXTINF:-1, DUNAS TV
+https://es4-p2-netcdn.bitel.com.pe/netcdn-live-4/bitel/dunastv/chunks.m3u8?maxrate=10000000&minrate=0&wmkid=0&uid=10015361&timestamp=1781558361&token=cd41591595b775016481447576ba27b4
+#EXTINF:-1, Folklore TV
+https://live-evg18.tv360.bitel.com.pe/bitel/folkloretvSRT/chunks.m3u8
+#EXTINF:-1, 36TV HUACHO
+https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
+#EXTINF:-1, Conecta2 TV
+https://es1-p2-netcdn.bitel.com.pe/netcdn-live-4/bitel/conectado2/chunks.m3u8?maxrate=10000000&minrate=0&wmkid=0&uid=10015361&timestamp=1781556747&token=68f8a200b0dbb63870437b5cca1f5fe6
+#EXTINF:-1, Max channel
+https://live-evg5.tv360.bitel.com.pe/bitel/maxchannel/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
+#EXTINF:-1, LDM TV ARGENTINA
+https://live-evg10.tv360.bitel.com.pe/bitel/pampaargentina/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
