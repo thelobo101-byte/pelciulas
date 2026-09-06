@@ -15,6 +15,10 @@ https://live-evg10.tv360.bitel.com.pe/bitel/cositeljuliaca/chunks.m3u8?manifestf
 http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/17.ts
 #EXTINF:-1, RPP
 https://live-evg8.tv360.bitel.com.pe/bitel/rpp/chunks.m3u8?uid=12955367
+#EXTINF:-1,24/7 El gran Chaparral (1967)
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/43361.ts
+#EXTINF:-1,24/7 La familia Monster (1964)
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/43367.ts
 #EXTINF:-1,24/7 | LA FAMILIA PELUCHE
 http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/127678.ts
 #EXTINF:-1,MX | DISTRITO COMEDIA
