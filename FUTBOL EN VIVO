@@ -1,9 +1,17 @@
 #EXTM3U
-#EXTINF:-1, La odisea 2026
-https://ia800604.us.archive.org/28/items/odisea10/La%20odisea.mp4
-#EXTINF:-1,La odisea (2026)
-http://lamtv.site:8080/movie/Peru26/sEYvwgwr2j/281252.mkv
-#EXTINF:-1,CHABUCA
-https://gofile.me/7mqbh/Y88wlJsXv
-#EXTINF:-1,ATLAS CHABUCA
-http://192.168.1.15:8096/web/index.html#!/videoosd/videoosd.html
+#EXTINF:-1,ARG | DIRECTV SPORTS • OP01
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/81497.ts
+#EXTINF:-1,PE | L1 OP1 - (Ex Liga 1)
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/119.ts
+#EXTINF:-1,PE | CONTACTO TV
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/110.ts
+#EXTINF:-1,ESPN PREMIUM CL OP01 ☆
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/57545.ts
+#EXTINF:-1,01 | STAR + (ESPN)
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/116308.ts
+#EXTINF:-1,02 | STAR + (ESP2)
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/116309.ts
+#EXTINF:-1,09 | STAR + (ESP DEP)
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/116316.ts
+#EXTINF:-1,ESPN 2 AR
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/76420.ts
