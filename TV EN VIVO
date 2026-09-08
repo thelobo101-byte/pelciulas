@@ -15,6 +15,16 @@ https://live-evg10.tv360.bitel.com.pe/bitel/cositeljuliaca/chunks.m3u8?manifestf
 http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/17.ts
 #EXTINF:-1, RPP
 https://live-evg8.tv360.bitel.com.pe/bitel/rpp/chunks.m3u8?uid=12955367
+#EXTINF:-1,24/7 ALF
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/43347.ts
+#EXTINF:-1,24/7 Blanco y negro (1978)
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/43352.ts
+#EXTINF:-1,24/7 La pequeña maravilla (1985)
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/43372.ts
+#EXTINF:-1,24/7 Dinosaurios 1991
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/53170.ts
+#EXTINF:-1,24/7 Mi Bella Genio
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/43374.ts
 #EXTINF:-1,24/7 El gran Chaparral (1967)
 http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/43361.ts
 #EXTINF:-1,24/7 La familia Monster (1964)
@@ -41,12 +51,28 @@ http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/947.ts
 http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/40218.ts
 #EXTINF:-1,24/7 Estrenos Cine 2023
 http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/40219.ts
+#EXTINF:-1,24/7 El juego del calamar (2021) • LTV
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/163225.ts
+#EXTINF:-1,24/7 Pablo Escobar
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/260046.ts
 #EXTINF:-1,24/7 LA PROFECÍA • LTV
 http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/182484.ts
+#EXTINF:-1,24/7 ANNABELLE • LTV
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/182483.ts
+#EXTINF:-1,24/7 JURASSIC PARK • LTV
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/182502.ts
+#EXTINF:-1,24/7 BAYWATCH RETRO
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/43351.ts
+#EXTINF:-1,24/7 SAGA RAPIDOS Y FURIOSOS
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/40220.ts
+#EXTINF:-1,24/7 | Saga ( Volver al Futuro )
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/133644.ts
 #EXTINF:-1, Andina RTV
 https://live-evg8.tv360.bitel.com.pe/bitel/andinatvSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
 #EXTINF:-1,BITME
 http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/1049.ts
+#EXTINF:-1,24/7 Supercampeones (e)
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/160093.ts
 #EXTINF:-1,NICKELODEON
 http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/1070.ts
 #EXTINF:-1, Nuestro Canal
@@ -55,16 +81,10 @@ https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/chunks.m3u8?manifestfilter=
 https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
 #EXTINF:-1, Qosqo Times
 https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/chunks.m3u8?uid=8343375
-#EXTINF:-1, Urbana TV
-https://live-evg10.tv360.bitel.com.pe/bitel/urbanatv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
 #EXTINF:-1, Mega TV
 https://live-evg5.tv360.bitel.com.pe/bitel/megatv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
-#EXTINF:-1, Max TV
-https://live-evg11.tv360.bitel.com.pe/bitel/maxtv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
 #EXTINF:-1, Wayra TV
 https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/chunks.m3u8
-#EXTINF:-1, Alpha TV
-https://es1-p2-netcdn.bitel.com.pe/netcdn-live-7/bitel/bnbSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=10015361&timestamp=1786048530&token=38c8fcc3b2312b5be6f63969eb19830b
 #EXTINF:-1,PE | MOVISTAR PLUS SD
 http://lamtv.site:8080/Peru26/sEYvwgwr2j/127.ts
 #EXTINF:-1, GTv Pisco
@@ -118,7 +138,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
 #EXTINF:-1,FUEGO TV
 http://lamtv.site:8080/Peru26/sEYvwgwr2j/168420.ts
 #EXTINF:-1, FMH movies
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/167843.ts
+https://es5-p2-netcdn.bitel.com.pe/netcdn-live-4/bitel/fmhmovies_abr/bitel/fmhmovies_360p/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=10015361&timestamp=1788902310&token=670a2b6091d8048d4fc81f92bd5657cb
 #EXTINF:-1,FMH KIDS
 http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/167842.ts
 #EXTINF:-1, Creo Kids
